@@ -1,6 +1,6 @@
-/*
- * Matt Packwood, Orchard Ridge, Monday Evening Class, Fall Semester 2003
- * PA09:  model figure MVC w/array cocepts 
+/* Matt Packwood, Orchard Ridge Campus, Monday Evening Class, Fall Semester 2003
+ *
+ * PA09:  Model figure MVC w/array cocepts 
  * screen size 576x396
  *
  * The Applet from the previous lab is modified to construct and manipulate an
